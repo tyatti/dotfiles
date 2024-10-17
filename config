@@ -292,6 +292,8 @@ exec --no-startup-id /home/j/.config/i3/i3-battery-popup -L 20 for_window [title
 exec --no-startup-id xautolock -corners -000 -time 10 -locker 'i3lock -c 000000' &
 bindsym Shift+$mod+Pause exec i3lock -c 000000 && systemctl suspend
 bindsym $mod+Pause exec i3lock -c 000000 
+bindsym $mod+x exec i3lock -c 000000 
+
 
 exec --no-startup-id /usr/bin/setxkbmap -option "ctrl:nocaps"
 
