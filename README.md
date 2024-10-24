@@ -4,5 +4,5 @@ this dir is  your's now and u may craft and use it to your needs
 
 
 btw i../
-**for my laptop ... 2.5feet away from my eyes** \n
+**for my laptop ... 2.5feet away from my eyes** <br>
 xrandr --output eDP-1 --mode 1368x768 
